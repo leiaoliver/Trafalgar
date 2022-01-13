@@ -34,6 +34,11 @@ Utilitários
 
 Loomer Tech é uma página institucional no formato One Page, para usar em diversos tipos de micro, pequena e média empresas, desenvolvida para Loomer Tech. Contém as seguintes seções: Header, Navigation, Home, Services, Apps, Testimonials, About e Footer
 
+Você pode acessar o site através [desse link](https://leiaoliver.github.io/Loomer-Tech/).
+
+
+
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/Bjd6iu2LpubXz9wC8K6jfT/Trafalgar-Landing-Page?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
