@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img alt="OriginSix" src="./images/imageReadme.png" width="100%">
+  <img alt="LoomerTech" src="./images/imageReadme.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -32,7 +32,7 @@ Utilitários
 
 ## 💻 Projeto
 
-Loomer Tech é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Services, Apps, Testimonials, About e Footer
+Loomer Tech é uma página institucional no formato One Page, para usar em diversos tipos de micro, pequena e média empresas, desenvolvida para Loomer Tech. Contém as seguintes seções: Header, Navigation, Home, Services, Apps, Testimonials, About e Footer
 
 ## 🔖 Layout
 
